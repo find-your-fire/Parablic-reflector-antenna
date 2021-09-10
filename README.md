@@ -1,4 +1,4 @@
-# Parablic-reflector-antenna
+# Parabolic-reflector-antenna
 
 
 Parabolic Reflector has been designed for different frequencies of 2.5 GHz and 7.5
